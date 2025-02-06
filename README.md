@@ -1,3 +1,7 @@
+# working process
+exceptions.dart -> failures -> constants -> Features: Domain Layer
+quote.dart (Entity) -> quote_repository -> get_random_quote -> Features: Data Layer
+quote_model.dart
 # clean_architecture
 https://chatgpt.com/share/67a38921-22a4-800b-ab10-c74f700baa02
 
